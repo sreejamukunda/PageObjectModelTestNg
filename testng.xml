@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+  <parameter name="url" value="https://ui.freecrm.com"></parameter>
+    <classes>
+      <class name="PageObjectModelProject.com.TestCases.TwoTestWithBeforeTC"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

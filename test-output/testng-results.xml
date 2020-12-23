@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="135028" started-at="2020-12-14T11:56:46Z" finished-at="2020-12-14T11:59:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="135028" started-at="2020-12-14T11:56:46Z" finished-at="2020-12-14T11:59:01Z">
+      <class name="PageObjectModelProject.com.TestCases.DataDriven">
+        <test-method status="PASS" signature="setData()[pri:0, instance:PageObjectModelProject.com.TestCases.DataDriven@1d057a39]" name="setData" is-config="true" duration-ms="46424" started-at="2020-12-14T17:26:46Z" finished-at="2020-12-14T17:27:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setData -->
+        <test-method status="PASS" signature="basicLogin(java.lang.String, java.lang.String)[pri:0, instance:PageObjectModelProject.com.TestCases.DataDriven@1d057a39]" name="basicLogin" duration-ms="24190" started-at="2020-12-14T17:27:45Z" data-provider="fetchData" finished-at="2020-12-14T17:28:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Abhilash.giridharan@ust-global.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Lost@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicLogin -->
+        <test-method status="PASS" signature="basicLogin(java.lang.String, java.lang.String)[pri:0, instance:PageObjectModelProject.com.TestCases.DataDriven@1d057a39]" name="basicLogin" duration-ms="28526" started-at="2020-12-14T17:28:09Z" data-provider="fetchData" finished-at="2020-12-14T17:28:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Abhilash.giridharan@ust-global.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Lost@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicLogin -->
+        <test-method status="PASS" signature="basicLogin(java.lang.String, java.lang.String)[pri:0, instance:PageObjectModelProject.com.TestCases.DataDriven@1d057a39]" name="basicLogin" duration-ms="23110" started-at="2020-12-14T17:28:38Z" data-provider="fetchData" finished-at="2020-12-14T17:29:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Abhilash.giridharan@ust-global.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Lost@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicLogin -->
+      </class> <!-- PageObjectModelProject.com.TestCases.DataDriven -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
