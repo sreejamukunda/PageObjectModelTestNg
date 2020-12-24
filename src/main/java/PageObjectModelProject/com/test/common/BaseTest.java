@@ -10,7 +10,7 @@ import org.openqa.selenium.ie.InternetExplorerDriver;
 public class BaseTest {
 	
 	public static WebDriver driver;	
-	
+	//changes in sreejabranch
 	
 	public static String driverPathChrome = "C:/Selenium Greens/SeleniumProject/Drivers/chromedriver.exe";
 	public static String driverPathFf = "C:/Selenium Greens/SeleniumProject/Drivers/geckodriver.exe";
