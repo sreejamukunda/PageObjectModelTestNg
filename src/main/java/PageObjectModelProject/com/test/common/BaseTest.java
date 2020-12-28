@@ -6,15 +6,21 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
-
+//sreejaone changes
 public class BaseTest {
-//Hello	
+
 	public static WebDriver driver;	
-	//sreeja branch added
-	//sreeja branch done
+
+	
 	//sreejatwo
 	//checksreejatwo
 	//28 December
+
+
+//sreeja branch added
+//sreeja branch done
+	
+
 	
 	public static String driverPathChrome = "C:/Selenium Greens/SeleniumProject/Drivers/chromedriver.exe";
 	public static String driverPathFf = "C:/Selenium Greens/SeleniumProject/Drivers/geckodriver.exe";
